@@ -16,6 +16,8 @@ Before starting, ensure you have the following:
 
 ### 1. Setting Up the Virtual Environment
 
+You can check my [Home Lab for Cybersecurity Project](https://github.com/AkshayPatel03/home-lab-for-cybersecurity) repository to learn how to build home lab and network configuration for VMs required for this project. 
+
 #### Install VirtualBox
 First, I downloaded and installed VirtualBox from [VirtualBox](https://www.virtualbox.org/).
 
